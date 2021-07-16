@@ -1,3 +1,7 @@
+SPINING-BALL
+==============
+
+try to make simple ball and learn Three-js with default gui controller 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
